@@ -20,3 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, Zaid Kamil
+#### Design, Engineering, and Development
+![Design, Engineering, and Development](https://x.com/ZaidKmail/header_photo)
+
+I am pursuing Graduate Studies in Computer Science, specializing in Software Engineering and Cyber Security, and expected to graduate in December 2024. I completed my Bachelors in Chemical Engineering. I enjoy developing software projects in AR/VR, Computer Vision, Full-Stack.
+
+Skills: AR/VR / Computer Vision / C# / Java 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
