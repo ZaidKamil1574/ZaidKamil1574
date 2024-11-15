@@ -17,6 +17,7 @@ Skills: AR/VR / Programming / Engineering Design / Research / C#
 
 
 
+![Copy of Z-Map](https://github.com/user-attachments/assets/aa929097-1b6d-43c1-90d6-299050de2df3)
 
 
 
