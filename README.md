@@ -1,4 +1,12 @@
 ### Hi there 👋, Zaid Kamil here
+
+
+### Tech Stack
+![Copy of Z-Map (1)](https://github.com/user-attachments/assets/ce3782a5-7227-4b85-bba0-eeb3de96fb82)
+
+
+
+
 #### Design, Engineering, and Development
 ![Design, Engineering, and Development](https://pbs.twimg.com/profile_banners/2438856014/1717985267/1080x360)
 
@@ -19,6 +27,4 @@ Skills: AR/VR / Programming / Engineering Design / Research / C#
 
 
 
-#### Tech Stack
 
-![Copy of Z-Map (1)](https://github.com/user-attachments/assets/ce3782a5-7227-4b85-bba0-eeb3de96fb82)
